@@ -17,8 +17,6 @@
 		891DCE6729859974003EC173 /* GradientRectangles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891DCE6629859974003EC173 /* GradientRectangles.swift */; };
 		891DCE692985998E003EC173 /* PathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891DCE682985998E003EC173 /* PathView.swift */; };
 		891DCE6B298599B3003EC173 /* CurvesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891DCE6A298599B3003EC173 /* CurvesView.swift */; };
-		891DCE6E29859AEE003EC173 /* TabbarButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891DCE6D29859AEE003EC173 /* TabbarButton.swift */; };
-		891DCE7029859C3E003EC173 /* TabbarShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891DCE6F29859C3E003EC173 /* TabbarShape.swift */; };
 		893D75382985D69B00B1EC17 /* SwiftView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 893D75372985D69B00B1EC17 /* SwiftView.swift */; };
 /* End PBXBuildFile section */
 
@@ -34,8 +32,6 @@
 		891DCE6629859974003EC173 /* GradientRectangles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientRectangles.swift; sourceTree = "<group>"; };
 		891DCE682985998E003EC173 /* PathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathView.swift; sourceTree = "<group>"; };
 		891DCE6A298599B3003EC173 /* CurvesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurvesView.swift; sourceTree = "<group>"; };
-		891DCE6D29859AEE003EC173 /* TabbarButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabbarButton.swift; sourceTree = "<group>"; };
-		891DCE6F29859C3E003EC173 /* TabbarShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabbarShape.swift; sourceTree = "<group>"; };
 		893D75372985D69B00B1EC17 /* SwiftView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -79,8 +75,6 @@
 				891DCE682985998E003EC173 /* PathView.swift */,
 				891DCE6A298599B3003EC173 /* CurvesView.swift */,
 				891DCE5429840D08003EC173 /* Assets.xcassets */,
-				891DCE7129859C51003EC173 /* TabbarShape */,
-				891DCE6C29859AC3003EC173 /* TabbarButton */,
 				891DCE5629840D08003EC173 /* Preview Content */,
 			);
 			path = Animation_SwiftUI;
@@ -92,22 +86,6 @@
 				891DCE5729840D08003EC173 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
-			sourceTree = "<group>";
-		};
-		891DCE6C29859AC3003EC173 /* TabbarButton */ = {
-			isa = PBXGroup;
-			children = (
-				891DCE6D29859AEE003EC173 /* TabbarButton.swift */,
-			);
-			path = TabbarButton;
-			sourceTree = "<group>";
-		};
-		891DCE7129859C51003EC173 /* TabbarShape */ = {
-			isa = PBXGroup;
-			children = (
-				891DCE6F29859C3E003EC173 /* TabbarShape.swift */,
-			);
-			path = TabbarShape;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -185,9 +163,7 @@
 				891DCE652985993A003EC173 /* AwardsView.swift in Sources */,
 				891DCE692985998E003EC173 /* PathView.swift in Sources */,
 				891DCE6129841221003EC173 /* MainView.swift in Sources */,
-				891DCE6E29859AEE003EC173 /* TabbarButton.swift in Sources */,
 				891DCE5129840D08003EC173 /* Animation_SwiftUIApp.swift in Sources */,
-				891DCE7029859C3E003EC173 /* TabbarShape.swift in Sources */,
 				891DCE6B298599B3003EC173 /* CurvesView.swift in Sources */,
 				891DCE6729859974003EC173 /* GradientRectangles.swift in Sources */,
 				893D75382985D69B00B1EC17 /* SwiftView.swift in Sources */,
