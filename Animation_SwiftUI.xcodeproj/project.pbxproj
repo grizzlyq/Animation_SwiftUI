@@ -18,6 +18,7 @@
 		891DCE692985998E003EC173 /* PathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891DCE682985998E003EC173 /* PathView.swift */; };
 		891DCE6B298599B3003EC173 /* CurvesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891DCE6A298599B3003EC173 /* CurvesView.swift */; };
 		893D75382985D69B00B1EC17 /* SwiftView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 893D75372985D69B00B1EC17 /* SwiftView.swift */; };
+		893D753C2986C8BF00B1EC17 /* MailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 893D753B2986C8BF00B1EC17 /* MailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		891DCE682985998E003EC173 /* PathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathView.swift; sourceTree = "<group>"; };
 		891DCE6A298599B3003EC173 /* CurvesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurvesView.swift; sourceTree = "<group>"; };
 		893D75372985D69B00B1EC17 /* SwiftView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftView.swift; sourceTree = "<group>"; };
+		893D753B2986C8BF00B1EC17 /* MailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 		891DCE4F29840D08003EC173 /* Animation_SwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				893D753B2986C8BF00B1EC17 /* MailView.swift */,
 				891DCE5029840D08003EC173 /* Animation_SwiftUIApp.swift */,
 				891DCE5229840D08003EC173 /* ContentView.swift */,
 				893D75372985D69B00B1EC17 /* SwiftView.swift */,
@@ -162,6 +165,7 @@
 				891DCE5329840D08003EC173 /* ContentView.swift in Sources */,
 				891DCE652985993A003EC173 /* AwardsView.swift in Sources */,
 				891DCE692985998E003EC173 /* PathView.swift in Sources */,
+				893D753C2986C8BF00B1EC17 /* MailView.swift in Sources */,
 				891DCE6129841221003EC173 /* MainView.swift in Sources */,
 				891DCE5129840D08003EC173 /* Animation_SwiftUIApp.swift in Sources */,
 				891DCE6B298599B3003EC173 /* CurvesView.swift in Sources */,

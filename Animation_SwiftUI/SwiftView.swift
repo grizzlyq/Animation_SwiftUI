@@ -50,7 +50,9 @@ struct SwiftView: View {
                 }
                 .offset(y: start ? -geometry.size.height / 20 : geometry.size.height / 100)
                 .padding(.leading)
-                
+                MailView()
+                    .frame(width: 250,height: 300)
+                    .offset(x: 100, y: 150)
             }
             
             .onTapGesture {
